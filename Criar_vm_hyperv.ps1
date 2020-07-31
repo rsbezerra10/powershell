@@ -2,6 +2,9 @@
 tarefas:
 1 - testar conexão de vm após start
 2 - se qtd vm 1 entao preservar nome
+
+Próximas etapas:
+- Implementar criacao de vm apenas com imagem padrão(sem discos diferenciais).
 #>
 echo "`n---------Bem vindo ao Script para criação automatizada de VM(s)---------`n"
 
